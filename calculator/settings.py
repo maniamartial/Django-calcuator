@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_lxa_sizf0#(q=nm$11*0pw&n*)*qb0#n^03mx*nt+ygp4^fws
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["djangoherokucalculator.herokuapp.com/", "127.0.0.1"]
+ALLOWED_HOSTS = ['djangoherokucalculator.herokuapp.com/', '127.0.0.1']
 
 # Application definition
 
